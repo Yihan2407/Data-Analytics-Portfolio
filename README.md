@@ -1,4 +1,4 @@
-# Data Analytics Portfolio by Yi Han 
+# Data Analytics Portfolio
 This portfolio contains various projects I have worked on involving data analytics and machine learning.
 
 ## Stand-alone projects
