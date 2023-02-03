@@ -1,7 +1,9 @@
-# Data Analytics Portfolio
+# yihan2407.github.io
 This portfolio contains various projects I have worked on involving data analytics and machine learning.
 
-## Stand-alone projects
+## Data Analytics Portfolio by Yi Han
+
+### Stand-alone projects
 
 **[Spotify Insights and Recommendations Generator](https://github.com/Yihan2407/Spotify-Insights-and-Recommendations)**
 
@@ -19,7 +21,7 @@ Here, I wanted to work on a data analytics project that was related to something
 
 At the time, I was really curious about the various types of healthcare data stored, which led me to the course 'Data Analytics: Intro to SQL using Healthcare Data', which culminated in this final project. Using the healthcare data provided, I developed a database that centralized healthcare data including patient IDs and diagnoses, utilizing Microsoft SQL Server Management Studio. Then, I queried various data using subqueries, CTEs, joins and window functions, such as the average age of patients by gender with a diagnosis that included Type 2 diabetes.
 
-## Kaggle kernels
+### Kaggle kernels
 
 **[Credit Card Default Classification](https://github.com/Yihan2407/credit-default-analytics)**
 
