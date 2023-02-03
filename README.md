@@ -1,4 +1,4 @@
-# Data Analytics Portfolio by Lim Yi Han 
+# Data Analytics Portfolio by Yi Han 
 This portfolio contains various projects I have worked on involving data analytics and machine learning.
 
 ## Stand-alone projects
@@ -7,4 +7,6 @@ This portfolio contains various projects I have worked on involving data analyti
 
 
 
-# Kaggle kernels
+## Kaggle kernels
+
+
