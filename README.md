@@ -1,4 +1,4 @@
-# yihan2407.github.io
+# [yihan2407.github.io](https://yihan2407.github.io/)
 This portfolio contains various projects I have worked on involving data analytics and machine learning.
 
 ## Data Analytics Portfolio by Yi Han
