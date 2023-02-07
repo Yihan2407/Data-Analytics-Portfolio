@@ -1,8 +1,8 @@
 # Data Analytics Portfolio by Yi Han
 This portfolio contains various projects I have worked on involving data analytics and machine learning.
 
-**[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
-**[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
+- **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
+- **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
 
 ## Stand-alone projects
 
