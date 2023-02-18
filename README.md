@@ -8,8 +8,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
 - **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
 - **[Linkedin Profile](https://www.linkedin.com/in/lim-yi-han/)**
-
-- Do contact me at **yihanlim24@gmail.com** should you wish to do so!
+- **Email Address: yihanlim24@gmail.com** 
 
 ## Stand-alone projects
 
