@@ -31,4 +31,8 @@ Predictive analytics in finance is extremely important as it allows for the pred
 Cardiovascular diseases (CVD) have been on the rise; in fact, according to the National Heart, Lung and Blood Institute (NHLBI), CVDs alone accounted for one-third of all deaths worldwide, and even posed as a risk factor for severe COVID-19 that would result in hospitalization and death. The [dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) that I have used contains data on 70,000 patients, with information such as their age, height, weight and cholesterol levels, of which may be correlated to the probability of contracting cardiovascular diseases.  Here, using my prior knowledge on the risk factors of CVDs, I attempt to create several binary classifiers that would predict whether a given patient would contract cardiovascular diseases. A non-exhaustive list of risk factors include smoking, drinking, being overweight, as well as being physically inactive. The Kaggle Kernel can be found [here](https://www.kaggle.com/code/limyihan/cardiovascular-diseases-eda-and-ml-classification).
 
 
-### Courses & Certifications
+## Courses & Certifications
+
+While I believe projects are the best way to imnprove and showcase one's technical skills, courses can also prove to be useful in providing one with the spark or nudge in the right direction to get started. Here are some of the courses I have completed and certificates I have picked up along the way!
+
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/fc15f91976e6) (HackerRank)
