@@ -50,4 +50,4 @@ While I believe projects are the best way to improve and showcase one's technica
 ## Contacts
 
 - **[Linkedin Profile](https://www.linkedin.com/in/lim-yi-han/)**
-- **Email Address: yihanlim24@gmail.com** 
+- **Email: yihanlim24@gmail.com** 
