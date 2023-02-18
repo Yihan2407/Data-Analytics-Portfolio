@@ -1,4 +1,4 @@
-# Data Analytics Portfolio by Yi Han
+# Yi Han - Data Analytics Portfolio
 This repository serves as a platform where I may discuss projects I have worked on, demonstrate skills I have picked up as well as track my progress in the field of Data Analytics and Data Science. Thanks for stopping by!
 
 - **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
