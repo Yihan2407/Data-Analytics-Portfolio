@@ -1,12 +1,13 @@
 # Data Analytics Portfolio by Yi Han
 This repository serves as a platform where I may discuss projects I have worked on, demonstrate skills I have picked up as well as track my progress in the field of Data Analytics and Data Science. Thanks for stopping by!
 
+- **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
+- **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
+
 ## About Me
 
 Hey there, I'm Yi Han!  I'm currently an undergraduate at the National University of Singapore pursuing a degree in Economics with a Second Major in Business Analytics. My passion for utilizing big data and analytics to drive informed decision-making and shape consumer behavior has been a driving force in my academic pursuits. I am intrigued by the application of data-driven insights across a range of industries, including e-commerce, music streaming, and media. My goal is to continue growing my knowledge and skills to leverage the abundance of online data to drive positive outcomes for businesses and society as a whole.
 
-- **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
-- **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
 
 ## Stand-alone projects
 
@@ -45,3 +46,8 @@ While I believe projects are the best way to improve and showcase one's technica
 - [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-85120abd-34b2-48ff-87c0-f0ec1782ea7c/) (Udemy)
 - [Tableau 2022 Advanced: Master Tableau in Data Science](https://www.udemy.com/certificate/UC-2828ed7d-431f-48e1-8545-6ebd87e72cf5/) (Udemy)
 - [Data Warehouse: The Ultimate Guide](https://www.udemy.com/certificate/UC-d3a1c4af-eba5-4925-a10e-738e2d0b06e1/) (Udemy)
+
+## Contacts
+
+- **[Linkedin Profile](https://www.linkedin.com/in/lim-yi-han/)**
+- **Email Address: yihanlim24@gmail.com** 
