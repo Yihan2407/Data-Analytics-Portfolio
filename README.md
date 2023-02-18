@@ -33,6 +33,11 @@ Cardiovascular diseases (CVD) have been on the rise; in fact, according to the N
 
 ## Courses & Certifications
 
-While I believe projects are the best way to imnprove and showcase one's technical skills, courses can also prove to be useful in providing one with the spark or nudge in the right direction to get started. Here are some of the courses I have completed and certificates I have picked up along the way!
+While I believe projects are the best way to improve and showcase one's technical skills, courses can also prove to be useful in providing a gentle nudge in the right direction to get started. Here are some of the courses I have completed and certificates I have picked up along the way!
 
 - [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/fc15f91976e6) (HackerRank)
+- [Data Analytics: Introduction to SQL using Healthcare Data](https://www.udemy.com/certificate/UC-b1e7b876-fa42-4d75-95a7-944bc8dc923a/) (Udemy)
+- [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/certificate/UC-3e943c34-bde9-4b28-8e11-0116271a7f60/) (Udemy)
+- [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-85120abd-34b2-48ff-87c0-f0ec1782ea7c/) (Udemy)
+- [Tableau 2022 Advanced: Master Tableau in Data Science](https://www.udemy.com/certificate/UC-2828ed7d-431f-48e1-8545-6ebd87e72cf5/) (Udemy)
+- [Data Warehouse: The Ultimate Guide](https://www.udemy.com/certificate/UC-d3a1c4af-eba5-4925-a10e-738e2d0b06e1/) (Udemy)
