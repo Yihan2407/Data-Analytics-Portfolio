@@ -23,7 +23,11 @@ Here, I wanted to work on a data analytics project that was related to something
 
 **[Hospital Management Database: Analytics with SQL](https://github.com/Yihan2407/healthcare-data-analytics)**
 
-At the time, I was really curious about the various types of healthcare data stored, which led me to the course 'Data Analytics: Intro to SQL using Healthcare Data', which culminated in this final project. Using the healthcare data provided, I developed a database that centralized healthcare data including patient IDs and diagnoses, utilizing Microsoft SQL Server Management Studio. Then, I queried various data using subqueries, CTEs, joins and window functions, such as the average age of patients by gender with a diagnosis that included Type 2 diabetes.
+At the time, I was really curious about the various types of healthcare data stored, which led me to the course 'Data Analytics: Intro to SQL using Healthcare Data', which culminated in this final project. Using the healthcare data provided, I developed a database that centralized healthcare data including patient IDs and diagnoses, utilizing Microsoft SQL Server Management Studio. Then, I queried various data using subqueries, CTEs, joins and window functions. An example query would be querying the average age of patients by gender with a diagnosis that included Type 2 diabetes.
+
+**[120 Years of Olympic History: Data Exploration with SQL](https://github.com/Yihan2407/olympic_games_analytics/blob/main/olympic_games_analysis.sql)**
+
+The Olympic Games possess a rich history; the first recorded, modern Olympic Games held actually dated back to 1896. Now, the Olympic Games serve as a platform where the best athletes globally may showcase their prowess at a certain sport, thereby promoting peaceful global interactions. Here, I use SQL to explore the [1896 - 2016 Olympic Games dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) by first importing the csv file into PostgreSQL. Then, I queried various data such as the M:F Gender Ratio of each Olympic Games, incorporating methods such as subqueries, CTEs, aggregation, joins, window functions, rolling sums, CASE expressions, COALESCE, string subsetting and concatenation in my queries.
 
 ## Kaggle Kernels
 
