@@ -27,7 +27,7 @@ At the time, I was really curious about the various types of healthcare data sto
 
 **[120 Years of Olympic History: Data Exploration with SQL](https://github.com/Yihan2407/olympic_games_analytics/blob/main/olympic_games_analysis.sql)**
 
-The Olympic Games possess a rich history; the first recorded, modern Olympic Games held actually dated back to 1896. Now, the Olympic Games serve as a platform where the best athletes globally may showcase their prowess at a certain sport, thereby promoting peaceful global interactions. Here, I use SQL to explore the [1896 - 2016 Olympic Games dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) by first importing the csv file into PostgreSQL. Then, I queried various data such as the M:F Gender Ratio of each Olympic Games, incorporating methods such as subqueries, CTEs, aggregation, joins, window functions, rolling sums, CASE expressions, COALESCE, string subsetting and concatenation in my queries.
+The Olympic Games possess a rich history; the first recorded, modern Olympic Games held actually dated back to 1896. Now, the Olympic Games serve as a platform where the best athletes globally may showcase their prowess at a certain sport, thereby promoting peaceful global interactions. Hered, I use SQL to explore the [1896 - 2016 Olympic Games dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) by first importing the csv file into PostgreSQL. Then, I queried various data such as the M:F Gender Ratio of each Olympic Games, incorporating methods such as subqueries, CTEs, aggregation, joins, window functions, rolling sums, CASE expressions, COALESCE, string subsetting and concatenation in my queries.
 
 ## Kaggle Kernels
 
