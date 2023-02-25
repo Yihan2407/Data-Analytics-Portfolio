@@ -3,17 +3,18 @@
 - **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
 - **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
 
-### Table of Contents
-- [About](#about)
-- [Stand-Alone Projects](#stand-alone-projects)
-- [Machine Learning Case Studies](#machine-learning-case-studies)
-- [Courses & Certifications](#courses---certifications)
-- [Contacts](#contacts)
+
 
 ## About
 
 Hey there, I'm Yi Han!  I'm currently an undergraduate at the National University of Singapore pursuing a degree in Economics with a Second Major in Business Analytics. My passion for utilizing big data and analytics to drive informed decision-making and shape consumer behavior has been a driving force in my academic pursuits. My goal is to continue growing my knowledge and skills to leverage the abundance of online data to drive positive outcomes for businesses and society as a whole.
 
+## Table of Contents
+- [About](#about)
+- [Stand-Alone Projects](#stand-alone-projects)
+- [Machine Learning Case Studies](#machine-learning-case-studies)
+- [Courses & Certifications](#courses---certifications)
+- [Contacts](#contacts)
 
 ## Stand-alone Projects
 
