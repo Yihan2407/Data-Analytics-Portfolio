@@ -13,7 +13,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - [About](#about)
 - [Stand-Alone Projects](#stand-alone-projects)
 - [Machine Learning Case Studies](#machine-learning-case-studies)
-- [Courses & Certifications](#courses---certifications)
+- [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
 ## Stand-alone Projects
