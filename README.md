@@ -7,7 +7,7 @@ This repository serves as a platform where I may discuss projects I have worked 
 - [About](#about)
 - [Projects](#projects)
 - [Kaggle Kernels](#kaggle-kernels)
-- [Courses & Certifications](#courses---certifications)
+- [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
 ## About
