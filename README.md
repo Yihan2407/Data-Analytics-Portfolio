@@ -1,4 +1,4 @@
-**This repository serves as a platform where I may discuss projects I have worked on, demonstrate skills I have picked up as well as track my progress in the field of Data Science & Analytics. Thanks for stopping by!**
+This repository serves as a platform where I may discuss projects I have worked on, demonstrate skills I have picked up as well as track my progress in the field of Data Science & Analytics. Thanks for stopping by!
 
 - **[Tableau Visualizations](https://public.tableau.com/app/profile/lim.yi.han)**
 - **[Github Page](https://github.com/Yihan2407/Yihan2407.github.io)**
