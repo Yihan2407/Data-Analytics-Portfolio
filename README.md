@@ -6,7 +6,7 @@ This repository serves as a platform where I may discuss projects I have worked 
 
 ## About
 
-Hey there, I'm Yi Han!  I'm currently an undergraduate at the National University of Singapore pursuing a degree in Economics with a Second Major in Business Analytics. My passion for utilizing big data and analytics to drive informed decision-making and shape consumer behavior has been a driving force in my academic pursuits. I am intrigued by the application of data-driven insights across a range of industries, including e-commerce, music streaming, and media. My goal is to continue growing my knowledge and skills to leverage the abundance of online data to drive positive outcomes for businesses and society as a whole.
+Hey there, I'm Yi Han!  I'm currently an undergraduate at the National University of Singapore pursuing a degree in Economics with a Second Major in Business Analytics. My passion for utilizing big data and analytics to drive informed decision-making and shape consumer behavior has been a driving force in my academic pursuits. My goal is to continue growing my knowledge and skills to leverage the abundance of online data to drive positive outcomes for businesses and society as a whole.
 
 
 ## Projects
