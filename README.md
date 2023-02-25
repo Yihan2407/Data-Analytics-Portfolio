@@ -15,7 +15,7 @@ This repository serves as a platform where I may discuss projects I have worked 
 Hey there, I'm Yi Han!  I'm currently an undergraduate at the National University of Singapore pursuing a degree in Economics with a Second Major in Business Analytics. My passion for utilizing big data and analytics to drive informed decision-making and shape consumer behavior has been a driving force in my academic pursuits. My goal is to continue growing my knowledge and skills to leverage the abundance of online data to drive positive outcomes for businesses and society as a whole.
 
 
-## Projects
+## Stand-Alone Projects
 
 **[Spotify Insights and Recommendations Generator](https://github.com/Yihan2407/Spotify-Insights-and-Recommendations)**
 
@@ -35,8 +35,9 @@ At the time, I was really curious about the various types of healthcare data sto
 
 The Olympic Games possess a rich history; the first recorded, modern Olympic Games held actually dated back to 1896. Now, the Olympic Games serve as a platform where the best athletes globally may showcase their prowess at a certain sport, thereby promoting peaceful global interactions. Hered, I use SQL to explore the [1896 - 2016 Olympic Games dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) by first importing the csv file into PostgreSQL. Then, I queried various data such as the M:F Gender Ratio of each Olympic Games, incorporating methods such as subqueries, CTEs, aggregation, joins, window functions, rolling sums, CASE expressions, COALESCE, string subsetting and concatenation in my queries.
 
-## Kaggle Kernels
+## Machine Learning Case Studies
 
+### Classification
 **[Credit Card Default Classification](https://github.com/Yihan2407/credit-default-analytics)**
 
 Predictive analytics in finance is extremely important as it allows for the prediction of risk in lending (i.e. credit default rates) by using the existing data of clients to identify prominent trends, and thereafter make predictions that generate valuable insights. Given a [dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) of 30,000 clients, we attempt to create several binary classifiers that would predict whether clients would default on their payment next month, using various factors such as demographic data, credit data and history of payment. A range of machine learning alogrithms have been implemented, including Logistic Regression, K-nearest Neighbors, Support Vector Machines, Random Forests, Neural Network and XGBoost. We have also applied the Synthetic Minority Oversampling Technique to address imbalances in the dataset and improve accuracy of predictions.
