@@ -40,6 +40,7 @@ The Olympic Games possess a rich history; the first recorded, modern Olympic Gam
 
 ## Machine Learning Case Studies
 
+### Classification
 **[Credit Card Default Classification](https://github.com/Yihan2407/credit-default-analytics)**
 
 Predictive analytics in finance is extremely important as it allows for the prediction of risk in lending (i.e. credit default rates) by using the existing data of clients to identify prominent trends, and thereafter make predictions that generate valuable insights. Given a [dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) of 30,000 clients, we attempt to create several binary classifiers that would predict whether clients would default on their payment next month, using various factors such as demographic data, credit data and history of payment. A range of machine learning alogrithms have been implemented, including Logistic Regression, K-nearest Neighbors, Support Vector Machines, Random Forests, Neural Network and XGBoost. We have also applied the Synthetic Minority Oversampling Technique to address imbalances in the dataset and improve accuracy of predictions.
