@@ -16,7 +16,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - [Machine Learning Case Studies](#machine-learning-case-studies)
   * [Classification](#classification)
   * [Regression](#regression)
-- [Courses & Certifications](#courses---certifications)
+- [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
 To view the projects, clicking on the project titles will direct you either to the Github Repository or the file/notebook.
