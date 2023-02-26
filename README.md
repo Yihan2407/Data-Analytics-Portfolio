@@ -16,7 +16,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
-To view the projects, clicking on the project titles will direct you to the Github Repositories.
+To view the projects, clicking on the project titles will direct you either to the Github Repository or the file/notebook.
 
 ## Stand-alone Projects
 
