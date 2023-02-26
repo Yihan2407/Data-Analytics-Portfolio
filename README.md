@@ -72,3 +72,5 @@ While I believe projects are the best way to improve and showcase one's technica
 
 - **[Linkedin Profile](https://www.linkedin.com/in/lim-yi-han/)**
 - **Email: yihanlim24@gmail.com** 
+
+[Return to Table of Contents](#table-of-contents)
