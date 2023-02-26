@@ -16,6 +16,8 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
+To view the projects, clicking on the project titles will direct you to the Github Repositories.
+
 ## Stand-alone Projects
 
 **[Spotify Insights and Recommendations Generator](https://github.com/Yihan2407/Spotify-Insights-and-Recommendations)**
