@@ -16,6 +16,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
 - [Machine Learning Case Studies](#machine-learning-case-studies)
   * [Classification](#classification)
   * [Regression](#regression)
+  * [Natural Language Processing](#natural-language-processing)
 - [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
@@ -50,12 +51,18 @@ Predictive analytics in finance is extremely important as it allows for the pred
 
 **[Cardiovascular Disease Classification](https://github.com/Yihan2407/cardiovascular_diseases_ml_project)**
 
-Cardiovascular diseases (CVD) have been on the rise; in fact, according to the National Heart, Lung and Blood Institute (NHLBI), CVDs alone accounted for one-third of all deaths worldwide, and even posed as a risk factor for severe COVID-19 that would result in hospitalization and death. The [dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) that I have used contains data on 70,000 patients, with information such as their age, height, weight and cholesterol levels, of which may be correlated to the probability of contracting cardiovascular diseases.  Here, using my prior knowledge on the risk factors of CVDs, I attempt to create several binary classifiers that would predict whether a given patient would contract cardiovascular diseases. A non-exhaustive list of risk factors include smoking, drinking, being overweight, as well as being physically inactive. The Kaggle Kernel can be found [here](https://www.kaggle.com/code/limyihan/cardiovascular-diseases-eda-and-ml-classification).
+Cardiovascular diseases (CVD) have been on the rise; in fact, according to the National Heart, Lung and Blood Institute (NHLBI), CVDs alone accounted for one-third of all deaths worldwide, and even posed as a risk factor for severe COVID-19 that would result in hospitalization and death. The [dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) that I have used contains data on 70,000 patients, with information such as their age, height, weight and cholesterol levels, of which may be correlated to the probability of contracting cardiovascular diseases.  Here, using my prior knowledge on the risk factors of CVDs, I attempt to create several binary classifiers that would predict whether a given patient would contract cardiovascular diseases. A non-exhaustive list of risk factors include smoking, drinking, being overweight, as well as being physically inactive.
 
 ### Regression
 **[House Prices Regression](https://github.com/Yihan2407/house_prices_ml_project)**
 
 What determines the value of a property? Given 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, I attempt to predict each property's sale price using regression techniques. Examples of explanatory variables include the neighborhood the property resides in, size of the garage, year it was sold, the general shape of the property as well as the above grade living area square feet. I first conducted exploratory data analysis, before proceeding onto data processing & cleaning, imputation of missing values, feature transformation as well as feature engineering to try and maximize the predictive capability of my models. Then, I experimented with several regression models such as Ridge Regression, ElasticNet Regression and Random Forest Regression. Overall, it was a really fun dataset to play around with, and the abundance of predictor variables made for some interesting ways to approach feature transformation and feature engineering.
+
+### Natural Language Processing
+**[Twitter Sentiment Aanalysis]**
+
+Sentiment Analysis refers to the process of using Natural Language Processing (NLP) techniques to extract subjective information from text, thereby allowing us to analyze the opinions and emotions of individuals towards a certain topic or event. This can be really useful, especially in the sector of research and policy-making. For example, sentiment analysis can provide valuable data for academic research in fields such as psychology and sociology, or provide insights into public opinion on social and political issues thereby informing policy decisions. As part of a group project, we used a labelled dataset consisting of 100,000 tweets and their respective sentiment labels, with '1' denoting a positive sentiment and '0' denoting a negative sentiment'. Then, we cleaned the data using techniques such as removing Emojis, stopwords (e.g. "the", "is"), punctuations, then proceeded with the expansion of contractions, lemmatization of words to their root form (e.g. "rocks" -> "rock") and tokenization. Finally, we fitted several models such as SVM, Random Forest, Stochastic Gradient Descent. Finally, we attempted to use GloVe word vectorization and trained an LSTM model on the vectorized data, which yielded us the highest accuracy of 80% after tuning. Overall
+
 
 ## Courses & Certifications
 
