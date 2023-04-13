@@ -67,7 +67,7 @@ Sentiment Analysis refers to the process of using Natural Language Processing (N
 ## Econometrics Case Studies
 Here's another interest of mine -- Econometric analysis helps us understand the causes and effects of economic phenomena and make informed decisions based on empirical evidence via the use of statistical techniques. This allows us to try and find or confirm the relationship between ideas or objects that may not seem immediately apparent at first, for example how meteorological factors influence the amount of bikes rented on a particular day or how healthcare spending influences health outcomes.
 
-**[Spotify Track Popularity Regression Analysis]**(https://github.com/Yihan2407/spotify_regression_analysis)
+**[Spotify Track Popularity Regression Analysis](https://github.com/Yihan2407/spotify_regression_analysis)**
 
 The Spotify API allows us to view the various characteristics of each track streamed on Spotify, for example audio features such as danceability, tempo and energy, to non-audio features such as the duration of the track and whether the track contains explicit content. Using these features, we can find the one that influences a track's popularity the most?
 
