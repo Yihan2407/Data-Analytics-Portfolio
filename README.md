@@ -17,6 +17,7 @@ Hey there, I'm Yi Han!  I'm currently an undergraduate at the National Universit
   * [Classification](#classification)
   * [Regression](#regression)
   * [Natural Language Processing](#natural-language-processing)
+- [Econometrics Case Studies](#econometrics-case-studies)
 - [Courses & Certifications](#courses--certifications)
 - [Contacts](#contacts)
 
@@ -63,6 +64,7 @@ What determines the value of a property? Given 79 explanatory variables describi
 
 Sentiment Analysis refers to the process of using Natural Language Processing (NLP) techniques to extract subjective information from text, thereby allowing us to analyze the opinions and emotions of individuals towards a certain topic or event. This can be really useful, especially in the sector of research and policy-making. For example, sentiment analysis can provide valuable data for academic research in fields such as psychology and sociology, or provide insights into public opinion on social and political issues thereby informing policy decisions. As part of a group project, we used a labelled dataset consisting of 100,000 tweets and their respective sentiment labels, with '1' denoting a positive sentiment and '0' denoting a negative sentiment'. Then, we cleaned the data using techniques such as removing Emojis, stopwords (e.g. "the", "is"), punctuations, then proceeded with the expansion of contractions, lemmatization of words to their root form (e.g. "rocks" -> "rock") and tokenization. Finally, we fitted several models such as SVM, Random Forest, Stochastic Gradient Descent. Finally, we attempted to use [GloVe word vectorization](https://github.com/stanfordnlp/GloVe) and trained an LSTM model on the vectorized data, which yielded us the highest accuracy of 80% after tuning. Overall, working with the dataset was rather challenging as it required extensive data pre-processing given the unstructured nature of textual data. Still, it was an eye-opening experience that exposed me to new machine learning techniques.
 
+## Econometrics Case Studies
 
 ## Courses & Certifications
 
